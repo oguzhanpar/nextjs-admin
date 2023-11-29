@@ -73,7 +73,12 @@ const navigation = (): VerticalNavItemsType => {
       icon: CubeOutline,
       title: 'Form Layouts',
       path: '/form-layouts'
-    }
+    },
+    {
+      title: 'Recipes',
+      icon: Table,
+      path: '/recipes'
+    },
   ]
 }
 
